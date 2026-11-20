@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  margin: 5vw;
+  font-size: 11px;
+}
+
+h1 {
+  font-family: "Roboto Mono", monospace;
+  font-size: 18px;
+}
+
+table{
+  font-family: "Roboto Mono", monospace;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
